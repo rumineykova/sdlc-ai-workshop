@@ -21,9 +21,7 @@ A hands-on workshop where you'll build a **Course Feedback System** using GitHub
 
 ### 1. Download the Workshop
 
-download sdlc-ai-workshop from brightspace
-
-Unarchivethe folder
+git clone 
 
 ### 2. Open in VS Code
 
