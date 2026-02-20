@@ -21,7 +21,7 @@ A hands-on workshop where you'll build a **Course Feedback System** using GitHub
 
 ### 1. Download the Workshop
 
-git clone 
+git clone https://github.com/rumineykova/sdlc-ai-workshop.git
 
 ### 2. Open in VS Code
 
